@@ -30,5 +30,6 @@ $ python GUI.py
 Once finished, details on the image will be reported in the terminal. Supplemental images generated during copy-move forgery detection can be found in the output directory.
 
 ##  IMAGES
-<img src="Screenshot/1.jpg">
-<img src="Screenshot/2.jpg">
+![Screenshot 2023-10-22 093741](https://github.com/SayandeepBanik/Image_Manipulation_Detection_System_Python/assets/139032216/2b15383b-245d-4191-b9b8-fea63c172e15)
+
+
