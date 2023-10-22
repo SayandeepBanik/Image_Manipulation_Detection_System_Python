@@ -33,3 +33,8 @@ Once finished, details on the image will be reported in the terminal. Supplement
 ![Screenshot 2023-10-22 093741](https://github.com/SayandeepBanik/Image_Manipulation_Detection_System_Python/assets/139032216/2b15383b-245d-4191-b9b8-fea63c172e15)
 
 
+![Screenshot 2023-10-22 093752](https://github.com/SayandeepBanik/Image_Manipulation_Detection_System_Python/assets/139032216/09b7d215-7eb0-48bd-88ab-3b3938301740)
+
+
+
+
